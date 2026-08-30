@@ -1,0 +1,8 @@
+com\icps\credentialverification\bridge\ResetChipHandler.class
+com\icps\credentialverification\bridge\WriteChipHandler.class
+com\icps\credentialverification\bridge\BridgeAgentApplication.class
+com\icps\credentialverification\bridge\ChipReadException.class
+com\icps\credentialverification\bridge\ChipReader.class
+com\icps\credentialverification\bridge\PcscChipReader.class
+com\icps\credentialverification\bridge\ReadChipHandler.class
+com\icps\credentialverification\bridge\PcscChipReader$CardAction.class
